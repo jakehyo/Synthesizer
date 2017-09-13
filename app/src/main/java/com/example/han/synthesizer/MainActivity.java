@@ -316,4 +316,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void note(String note, int time){
 
     }
+    // I'm amazing
+
 }
